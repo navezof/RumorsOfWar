@@ -1,0 +1,5 @@
+Rumors of war is a 2D action game with RPG element. This is a direct adaptaion of another one of my project started with the Unreal Engine 4.
+
+I tried to do this project using nearly exclusively the entity-component design pattern. It is so elegant!
+
+To play double click on RumorsOfWar.exe (there is no exit apart from the trusty alt+f4)

@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Combo.cs">
+    <Files>
+      <File FileName="..\Asteroid\Assets\Scripts\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="..\Asteroid\Assets\Scripts\PlayerPawn.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CharacterPawn.cs" Line="18" Column="10" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="15" Column="27" />
+      <File FileName="Assets\Scripts\Combat.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Combo.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
